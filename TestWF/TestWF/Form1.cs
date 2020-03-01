@@ -16,5 +16,15 @@ namespace TestWF
         {
             InitializeComponent();
         }
+
+        public void test()
+        {
+
+        }
+
+        public void conflict()
+        {
+
+        }
     }
 }
