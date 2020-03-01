@@ -1,5 +1,1 @@
-1111
-123333
-
-test conflict
-Bi conflict
+Test file conflict
