@@ -20,11 +20,7 @@ namespace TestWF
         public void test()
         {
 
-            //Conflict
-
-            //push len git
-
-            //confict lan 2
+            
         }
 
         public void conflict()
